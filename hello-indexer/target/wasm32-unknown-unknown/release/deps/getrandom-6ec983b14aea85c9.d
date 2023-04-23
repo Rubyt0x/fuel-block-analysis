@@ -1,0 +1,11 @@
+/Users/rubenamar/Documents/Fuel Labs/fuel-block-analysis/hello-indexer/target/wasm32-unknown-unknown/release/deps/getrandom-6ec983b14aea85c9.rmeta: /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/lib.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error_impls.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/js.rs
+
+/Users/rubenamar/Documents/Fuel Labs/fuel-block-analysis/hello-indexer/target/wasm32-unknown-unknown/release/deps/libgetrandom-6ec983b14aea85c9.rlib: /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/lib.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error_impls.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/js.rs
+
+/Users/rubenamar/Documents/Fuel Labs/fuel-block-analysis/hello-indexer/target/wasm32-unknown-unknown/release/deps/getrandom-6ec983b14aea85c9.d: /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/lib.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error_impls.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/js.rs
+
+/Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/lib.rs:
+/Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error.rs:
+/Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util.rs:
+/Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error_impls.rs:
+/Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/js.rs:

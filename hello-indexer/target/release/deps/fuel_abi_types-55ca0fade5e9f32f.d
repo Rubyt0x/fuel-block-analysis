@@ -1,0 +1,10 @@
+/Users/rubenamar/Documents/Fuel Labs/fuel-block-analysis/hello-indexer/target/release/deps/fuel_abi_types-55ca0fade5e9f32f.rmeta: /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/lib.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/error_codes.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/program_abi.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/utils.rs
+
+/Users/rubenamar/Documents/Fuel Labs/fuel-block-analysis/hello-indexer/target/release/deps/libfuel_abi_types-55ca0fade5e9f32f.rlib: /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/lib.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/error_codes.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/program_abi.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/utils.rs
+
+/Users/rubenamar/Documents/Fuel Labs/fuel-block-analysis/hello-indexer/target/release/deps/fuel_abi_types-55ca0fade5e9f32f.d: /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/lib.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/error_codes.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/program_abi.rs /Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/utils.rs
+
+/Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/lib.rs:
+/Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/error_codes.rs:
+/Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/program_abi.rs:
+/Users/rubenamar/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-abi-types-0.2.1/src/utils.rs:

@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/rubenamar/Documents/Fuel Labs/fuel-block-analysis/hello-indexer/target/release/build/typenum-e35e5b7ad2606e07/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/rubenamar/Documents/Fuel Labs/fuel-block-analysis/hello-indexer/target/release/build/typenum-e35e5b7ad2606e07/out/op.rs
